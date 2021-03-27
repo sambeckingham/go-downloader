@@ -1,4 +1,4 @@
-module go-downloader
+module github.com/sambeckingham/go-downloader
 
 go 1.16
 
